@@ -1,0 +1,7 @@
+Parts List
+1 General Purpose NPN Transistor $0.10
+1 50K Trimpot $0.15
+1 47ohm Resistor $0.01
+1 LED $0.08
+1 Proto Board or You can etch A PCB
+1 3 volt power source battery, wall wart, whatever

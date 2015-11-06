@@ -1,0 +1,5 @@
+source: coments on http://www.instructables.com/id/Simple-Water-Sensor/
+
+MG17  syedumarjunaid Reply 19 days ago
+Thanks for the reply. For anyone else wanting to detect water with arduino - turns out that you just need to connect a 10k resister between 5v and A0, then connect the probes to A0 and GND. Works like a charm :)
+
